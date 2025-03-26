@@ -11,7 +11,7 @@ pipeline {
     environment {
         REPO_URL = 'https://github.com/Vind1Viet/devops-study'
         BRANCH_NAME = "${params.BRANCH_NAME}"
-        IMAGE_NAME = 'ntquan87/22127454-TQViet'
+        IMAGE_NAME = 'ntquan87/22127454-tqviet'
     }
 
 
